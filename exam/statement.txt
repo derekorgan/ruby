@@ -1,0 +1,2 @@
+I have all parts working except sorting the hands after getting the rank.
+
